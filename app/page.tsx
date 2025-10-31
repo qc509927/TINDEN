@@ -79,29 +79,29 @@ const SalesProofPopup = ({ show, onClose }: { show: boolean; onClose: () => void
 
 // Arrays organizados por gênero e faixa etária
 const malePhotos1824 = [
-  "https://blobs.vusercontent.net/blob/male-25-34-male-andyreiddvip.jpg-JfW3WQX7spc75NBSfoH1ink8qFF9bg.jpeg", // male-25-34-male-andyreiddvip.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-franchescox.jpg-SSxdBZNDEbogmHbY6WPnSteKDSLnOy.jpeg", // male-25-34-male-franchescox.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-augst_ts.jpg-nu4ttxScgp63AQU9M9uUAQw6ujbhmq.jpeg", // male-25-34-male-augst_ts.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-nanoargentino.jpg-MupFxTgua62ieJ17as9NXcynMYNbgN.jpeg", // male-25-34-male-nanoargentino.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-shyguyishere.jpg-94TD8ArDNT2ZBDw0N2M0G9hJah6UKk.jpeg", // male-25-34-male-shyguyishere.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-carterlander08.jpg-yVyzRYbS0aGVhbvEX0Mjss5h51nySK.jpeg", // male-25-34-male-carterlander08.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-matthewteddy.jpg-gGny9NX0j88eVzP1iJqKZPEVWZ0Ogs.jpeg", // male-25-34-male-matthewteddy.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-tomidiazj.jpg-uuVCkrFp6AHIQkyUkoUnQ4seoDKeL7.jpeg", // male-25-34-male-tomidiazj.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-latinblondarg.jpg-erLXKeyVnCQFjS4QaZLFLFhu1I0yro.jpeg", // male-25-34-male-latinblondarg.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-bushidoboy.jpg-Ye68jGO1s2usgp6AabdJo4bGpnxCTl.jpeg", // male-25-34-male-bushidoboy.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-andyreiddvip.jpg-JfW3WQX7spc75NBSfoH1ink8qFF9bg.jpeg", // male-25-34-male-andyreiddvip.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-franchescox.jpg-SSxdBZNDEbogmHbY6WPnSteKDSLnOy.jpeg", // male-25-34-male-franchescox.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-augst_ts.jpg-nu4ttxScgp63AQU9M9uUAQw6ujbhmq.jpeg", // male-25-34-male-augst_ts.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-nanoargentino.jpg-MupFxTgua62ieJ17as9NXcynMYNbgN.jpeg", // male-25-34-male-nanoargentino.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-shyguyishere.jpg-94TD8ArDNT2ZBDw0N2M0G9hJah6UKk.jpeg", // male-25-34-male-shyguyishere.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-carterlander08.jpg-yVyzRYbS0aGVhbvEX0Mjss5h51nySK.jpeg", // male-25-34-male-carterlander08.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-matthewteddy.jpg-gGny9NX0j88eVzP1iJqKZPEVWZ0Ogs.jpeg", // male-25-34-male-matthewteddy.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-tomidiazj.jpg-uuVCkrFp6AHIQkyUkoUnQ4seoDKeL7.jpeg", // male-25-34-male-tomidiazj.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-latinblondarg.jpg-erLXKeyVnCQFjS4QaZLFLFhu1I0yro.jpeg", // male-25-34-male-latinblondarg.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-bushidoboy.jpg-Ye68jGO1s2usgp6AabdJo4bGpnxCTl.jpeg", // male-25-34-male-bushidoboy.jpg
 ]
 
 const malePhotos2534 = [
-  "https://blobs.vusercontent.net/blob/male-25-34-male-andyreiddvip.jpg-JfW3WQX7spc75NBSfoH1ink8qFF9bg.jpeg", // male-25-34-male-andyreiddvip.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-franchescox.jpg-SSxdBZNDEbogmHbY6WPnSteKDSLnOy.jpeg", // male-25-34-male-franchescox.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-augst_ts.jpg-nu4ttxScgp63AQU9M9uUAQw6ujbhmq.jpeg", // male-25-34-male-augst_ts.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-nanoargentino.jpg-MupFxTgua62ieJ17as9NXcynMYNbgN.jpeg", // male-25-34-male-nanoargentino.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-shyguyishere.jpg-94TD8ArDNT2ZBDw0N2M0G9hJah6UKk.jpeg", // male-25-34-male-shyguyishere.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-carterlander08.jpg-yVyzRYbS0aGVhbvEX0Mjss5h51nySK.jpeg", // male-25-34-male-carterlander08.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-matthewteddy.jpg-gGny9NX0j88eVzP1iJqKZPEVWZ0Ogs.jpeg", // male-25-34-male-matthewteddy.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-tomidiazj.jpg-uuVCkrFp6AHIQkyUkoUnQ4seoDKeL7.jpeg", // male-25-34-male-tomidiazj.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-latinblondarg.jpg-erLXKeyVnCQFjS4QaZLFLFhu1I0yro.jpeg", // male-25-34-male-latinblondarg.jpg
-  "https://blobs.vusercontent.net/blob/male-25-34-male-bushidoboy.jpg-Ye68jGO1s2usgp6AabdJo4bGpnxCTl.jpeg", // male-25-34-male-bushidoboy.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-andyreiddvip.jpg-JfW3WQX7spc75NBSfoH1ink8qFF9bg.jpeg", // male-25-34-male-andyreiddvip.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-franchescox.jpg-SSxdBZNDEbogmHbY6WPnSteKDSLnOy.jpeg", // male-25-34-male-franchescox.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-augst_ts.jpg-nu4ttxScgp63AQU9M9uUAQw6ujbhmq.jpeg", // male-25-34-male-augst_ts.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-nanoargentino.jpg-MupFxTgua62ieJ17as9NXcynMYNbgN.jpeg", // male-25-34-male-nanoargentino.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-shyguyishere.jpg-94TD8ArDNT2ZBDw0N2M0G9hJah6UKk.jpeg", // male-25-34-male-shyguyishere.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-carterlander08.jpg-yVyzRYbS0aGVhbvEX0Mjss5h51nySK.jpeg", // male-25-34-male-carterlander08.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-matthewteddy.jpg-gGny9NX0j88eVzP1iJqKZPEVWZ0Ogs.jpeg", // male-25-34-male-matthewteddy.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-tomidiazj.jpg-uuVCkrFp6AHIQkyUkoUnQ4seoDKeL7.jpeg", // male-25-34-male-tomidiazj.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-latinblondarg.jpg-erLXKeyVnCQFjS4QaZLFLFhu1I0yro.jpeg", // male-25-34-male-latinblondarg.jpg
+  "https://blobs.vusercontent.com/blob/male-25-34-male-bushidoboy.jpg-Ye68jGO1s2usgp6AabdJo4bGpnxCTl.jpeg", // male-25-34-male-bushidoboy.jpg
 ]
 
 const malePhotos3544 = [
@@ -131,7 +131,7 @@ const femalePhotos1824 = [
   "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-ThorriandJax.jpg-CZTrwFISinAcSSvxRrAcUWtMDYTaiO.jpeg", // female-18-24-female-louprival.jpg
   "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-juicyjade9.jpg-nOS27Xu6KrOgaCRuu9862Hk73NegAs.jpeg", // female-18-24-female-babygirlmiza.jpg
   "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-ruth_lee.jpg-J5flhVFgEjhvJiSFhj0ZuBY3tGwjRI.jpeg", // female-18-24-female-imjuliequeen.jpg
-  "https://blobs.vusercontent.net/blob/female-25-34-female-graciebon1.jpg-kfctbLLp6OUl4Kc0OhSYyglGCLl29f.jpeg", // female-18-24-female-izzybunniesvip.jpg
+  "https://blobs.vusercontent.com/blob/female-25-34-female-graciebon1.jpg-kfctbLLp6OUl4Kc0OhSYyglGCLl29f.jpeg", // female-18-24-female-izzybunniesvip.jpg
 ]
 
 const femalePhotos2534 = [
@@ -420,9 +420,9 @@ export default function SigiloX() {
   const [currentSlide, setCurrentSlide] = useState(0)
   const [uploadedPhoto, setUploadedPhoto] = useState<string | null>(null)
   const [ageRange, setAgeRange] = useState("")
-  const [userEmail, setUserEmail] = useState("")
+  // const [userEmail, setUserEmail] = useState("") // REMOVED: Email input was removed
   const [isSubmittingEmail, setIsSubmittingEmail] = useState(false)
-  const [emailSubmitted, setEmailSubmitted] = useState(false)
+  // const [emailSubmitted, setEmailSubmitted] = useState(false) // REMOVED: Email input was removed
   const [generatedProfiles, setGeneratedProfiles] = useState<any[]>([])
   const [selectedRandomPhoto, setSelectedRandomPhoto] = useState<string | null>(null)
   const [selectedProfile, setSelectedProfile] = useState<any>(null)
@@ -448,7 +448,7 @@ export default function SigiloX() {
     // Configura um timer.
     const handler = setTimeout(() => {
       // Pega o valor atual e remove caracteres não numéricos.
-      const cleanPhone = phoneNumber.replace(/[^0-9]/g, "")
+      const cleanPhone = phoneNumber.replace(/[^0-9+]/g, "") // Mantém o '+' se estiver no início
       setDebouncedPhone(cleanPhone) // Atualiza o valor que vai para a API.
     }, 800) // Atraso de 800ms.
 
@@ -463,7 +463,8 @@ export default function SigiloX() {
   // Este useEffect "escuta" o `debouncedPhone`. Ele só roda quando o valor "atrasado" muda.
   useEffect(() => {
     const fetchWhatsAppPhoto = async () => {
-      // Se o número for muito curto, limpa a foto e para a execução.
+      // Se o número for muito curto (após limpeza), limpa a foto e para a execução.
+      // Um número de telefone válido geralmente tem pelo menos 10 dígitos + código do país.
       if (debouncedPhone.length < 10) {
         setProfilePhoto(null)
         setIsPhotoPrivate(false)
@@ -492,6 +493,7 @@ export default function SigiloX() {
         setIsPhotoPrivate(!!data.is_photo_private)
       } catch (error) {
         console.error("Erro ao buscar foto:", error)
+        // Se houver um erro, usa a imagem de fallback e marca como privada
         setProfilePhoto(fallbackUrl)
         setIsPhotoPrivate(true)
         setPhotoError("Could not load photo.")
@@ -500,26 +502,32 @@ export default function SigiloX() {
       }
     }
 
-    // Chama a função apenas se `debouncedPhone` tiver um valor.
+    // Chama a função apenas se `debouncedPhone` tiver um valor válido (após limpeza).
     if (debouncedPhone) {
       fetchWhatsAppPhoto()
     }
   }, [debouncedPhone]) // A dependência agora é o valor "atrasado".
 
   // A FUNÇÃO `handlePhoneChange` FICA MAIS SIMPLES
-  // Sua única responsabilidade é atualizar o estado `phoneNumber` em tempo real.
+  // Sua única responsabilidade é atualizar o estado `phoneNumber` em tempo real,
+  // aplicando formatação básica se necessário.
   const handlePhoneChange = (value: string) => {
-    let formattedValue = value
-    if (!value.startsWith(selectedCountry.code)) {
-      if (value && !value.startsWith("+")) {
-        formattedValue = selectedCountry.code + " " + value
-      } else if (value.startsWith("+") && !value.startsWith(selectedCountry.code)) {
-        formattedValue = value
+    // Remove caracteres não numéricos, exceto o '+' inicial que pode vir do código do país
+    const formattedValue = value.replace(/[^0-9+]/g, "")
+
+    // Garante que o código do país selecionado esteja sempre no início
+    if (formattedValue && !formattedValue.startsWith(selectedCountry.code)) {
+      // Se o número já começar com '+', mas não com o código selecionado, mantém o '+' mas não adiciona o código do país automaticamente
+      if (formattedValue.startsWith("+")) {
+        setPhoneNumber(formattedValue) // Mantém o número como digitado se começar com '+'
       } else {
-        formattedValue = selectedCountry.code + " " + value.replace(selectedCountry.code, "").trim()
+        setPhoneNumber(selectedCountry.code + formattedValue) // Adiciona o código do país se não começar com '+' ou com o código correto
       }
+    } else if (formattedValue.startsWith(selectedCountry.code)) {
+      setPhoneNumber(formattedValue) // Mantém o número se já estiver com o código correto
+    } else {
+      setPhoneNumber(formattedValue) // Caso contrário, apenas atualiza com o valor formatado
     }
-    setPhoneNumber(formattedValue)
   }
 
   // Lógica para fechar o dropdown (continua a mesma)
@@ -702,7 +710,7 @@ export default function SigiloX() {
     { code: "+962", name: "Jordan", flag: "🇯🇴", placeholder: "079 123 4567" },
     { code: "+963", name: "Syria", flag: "🇸🇾", placeholder: "093 123 456" },
     { code: "+964", name: "Iraq", flag: "🇮🇶", placeholder: "0790 123 4567" },
-    { code: "+965", name: "Kuwait", flag: "🇰🇼", placeholder: "600 12345" },
+    { code: "+965", name: "Kuwait", flag: "🇰🇼", placeholder: "3600 1234" },
     { code: "+967", name: "Yemen", flag: "🇾🇪", placeholder: "711 123 456" },
     { code: "+968", name: "Oman", flag: "🇴🇲", placeholder: "921 12345" },
     { code: "+970", name: "Palestine", flag: "🇵🇸", placeholder: "0599 123 456" },
@@ -1003,6 +1011,8 @@ export default function SigiloX() {
       if (!sourceArray || sourceArray.length === 0) return "/placeholder.svg"
       const availableItems = sourceArray.filter((item) => !usedArray.includes(item))
       if (availableItems.length === 0) {
+        // If all items have been used, reset and pick randomly
+        usedArray.length = 0 // Clear the used array
         return sourceArray[Math.floor(Math.random() * sourceArray.length)]
       }
       const selectedItem = availableItems[Math.floor(Math.random() * availableItems.length)]
@@ -1014,7 +1024,7 @@ export default function SigiloX() {
     if (city) {
       matchLocation = city
     } else {
-      const defaultGlobalLocations = ["New York", "Los Angeles", "Chicago", "London"]
+      const defaultGlobalLocations = ["New York", "Los Angeles", "Chicago", "London", "Paris", "Tokyo", "Sydney"]
       matchLocation = defaultGlobalLocations[Math.floor(Math.random() * defaultGlobalLocations.length)]
     }
 
@@ -1099,71 +1109,68 @@ export default function SigiloX() {
     const orientations = ["Straight", "Bisexual", "Pansexual", "Queer"]
 
     for (let i = 0; i < 3; i++) {
-      let profileGender: "masculino" | "feminino"
+      let profileGender: "masculino" | "feminino" | "nao-binario" // Allow "nao-binario" as a possible target gender
       let profileAgeRange: keyof typeof maleNames
+      let profileNameList: string[]
+      let profilePhotoArray: string[]
 
+      // Determine the gender and age range for the fake profile
       if (selectedGender === "nao-binario") {
-        // --- INÍCIO: LÓGICA CORRIGIDA PARA GARANTIR CONSISTÊNCIA ---
-
-        // 1. Sorteia o GÊNERO para este perfil específico (homem ou mulher)
-        profileGender = Math.random() < 0.5 ? "masculino" : "feminino"
-
-        // 2. Sorteia a FAIXA ETÁRIA para este perfil específico
-        const ageRanges: (keyof typeof maleNames)[] = ["18-24", "25-34", "35-44", "45-54"]
-        profileAgeRange = ageRanges[Math.floor(Math.random() * ageRanges.length)]
-        // --- FIM: LÓGICA CORRIGIDA ---
+        // If the user selected "non-binary", we create fake profiles of *any* gender.
+        // This simulates finding someone who might be non-binary or someone the user is interested in regardless of gender.
+        const randomGenderChoice = Math.random() < 0.5 ? "masculino" : "feminino"
+        profileGender = randomGenderChoice // Assign a gender for selection purposes
       } else {
-        // Lógica original para masculino/feminino (mostra o gênero oposto)
+        // If user selected 'masculino' or 'feminino', we create a profile of the *opposite* gender
         profileGender = selectedGender === "masculino" ? "feminino" : "masculino"
-        profileAgeRange = ageRange as keyof typeof maleNames
       }
 
-      let names: string[]
-      let photoArray: string[]
+      const ageRanges: (keyof typeof maleNames)[] = ["18-24", "25-34", "35-44", "45-54"]
+      profileAgeRange = ageRanges[Math.floor(Math.random() * ageRanges.length)]
 
-      // 3. AGORA, com o gênero e idade definidos, pega os nomes e fotos corretos
+      // Select the correct name and photo arrays based on the determined gender and age range
       if (profileGender === "masculino") {
-        names = maleNames[profileAgeRange] || []
+        profileNameList = maleNames[profileAgeRange] || []
         switch (profileAgeRange) {
           case "18-24":
-            photoArray = malePhotos1824
+            profilePhotoArray = malePhotos1824
             break
           case "25-34":
-            photoArray = malePhotos2534
+            profilePhotoArray = malePhotos2534
             break
           case "35-44":
-            photoArray = malePhotos3544
+            profilePhotoArray = malePhotos3544
             break
           case "45-54":
-            photoArray = malePhotos4554
+            profilePhotoArray = malePhotos4554
             break
           default:
-            photoArray = malePhotos2534
+            profilePhotoArray = malePhotos2534 // Fallback
         }
       } else {
-        // feminino
-        names = femaleNames[profileAgeRange] || []
+        // Female or Non-binary (treated as female for photo/name selection if random)
+        profileNameList = femaleNames[profileAgeRange] || []
         switch (profileAgeRange) {
           case "18-24":
-            photoArray = femalePhotos1824
+            profilePhotoArray = femalePhotos1824
             break
           case "25-34":
-            photoArray = femalePhotos2534
+            profilePhotoArray = femalePhotos2534
             break
           case "35-44":
-            photoArray = femalePhotos3544
+            profilePhotoArray = femalePhotos3544
             break
           case "45-54":
-            photoArray = femalePhotos4554
+            profilePhotoArray = femalePhotos4554
             break
           default:
-            photoArray = femalePhotos2534
+            profilePhotoArray = femalePhotos2534 // Fallback
         }
       }
 
-      const name = getUniqueItem(names, usedNames)
-      const profileImage = getUniqueItem(photoArray, usedImages)
-      const age = Math.floor(Math.random() * 7) + (parseInt(profileAgeRange.split("-")[0]) || 25)
+      const name = getUniqueItem(profileNameList, usedNames)
+      const profileImage = getUniqueItem(profilePhotoArray, usedImages)
+      const age = Math.floor(Math.random() * 7) + (Number.parseInt(profileAgeRange.split("-")[0]) || 25)
 
       profiles.push({
         name,
@@ -1187,15 +1194,16 @@ export default function SigiloX() {
     selectedGender,
     ageRange,
     city,
-    // As dependências continuam corretas
-    femalePhotos1824,
-    femalePhotos2534,
-    femalePhotos3544,
-    femalePhotos4554,
+    // These photo arrays are constants and don't need to be in dependencies if they are truly static.
+    // However, if they were dynamically loaded, they would need to be dependencies.
     malePhotos1824,
     malePhotos2534,
     malePhotos3544,
     malePhotos4554,
+    femalePhotos1824,
+    femalePhotos2534,
+    femalePhotos3544,
+    femalePhotos4554,
   ])
 
   const openProfileModal = (profile: any) => {
@@ -1214,49 +1222,48 @@ export default function SigiloX() {
     }
   }, [currentStep, generateFakeProfiles])
 
+  // CHANGE: Removed userEmail validation since email input was removed
   const canVerify =
-    phoneNumber.length >= 10 &&
+    phoneNumber.length >= 10 && // Basic check for sufficient length
     selectedGender &&
-    profilePhoto &&
+    uploadedPhoto && // Require uploaded photo for verification
     lastTinderUse &&
     cityChange &&
-    ageRange &&
-    userEmail.includes("@")
+    ageRange
 
   // Function to submit email and proceed to verification
- const handleSubmitForm = async () => {
-  if (!canVerify) return
+  const handleSubmitForm = async () => {
+    if (!canVerify) return
 
-  setIsSubmittingEmail(true)
+    setIsSubmittingEmail(true)
 
-  try {
-    // Chama a SUA API Route segura, que está no back-end
-    const response = await fetch("/api/subscribe", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        userEmail: userEmail,
-        phoneNumber: phoneNumber.replace(/[^0-9+]/g, ""), // Envia o número limpo
-      }),
-    })
+    try {
+      // Chama a SUA API Route segura, que está no back-end
+      const response = await fetch("/api/subscribe", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          // userEmail: userEmail, // REMOVED: Email input was removed
+          phoneNumber: phoneNumber.replace(/[^0-9+]/g, ""), // Envia o número limpo
+        }),
+      })
 
-    // Se a sua API interna retornar um erro, podemos tratar aqui
-    if (!response.ok) {
-      // Opcional: mostrar um erro para o usuário se a inscrição falhar
-      console.error("Subscription failed.")
-      // Poderia-se adicionar um setError("Falha ao se inscrever. Tente novamente.")
+      // Se a sua API interna retornar um erro, podemos tratar aqui
+      if (!response.ok) {
+        // Opcional: mostrar um erro para o usuário se a inscrição falhar
+        console.error("Subscription failed.")
+        // Poderia-se adicionar um setError("Falha ao se inscrever. Tente novamente.")
+      }
+    } catch (error) {
+      console.error("Error calling the subscribe API:", error)
+    } finally {
+      // O finally garante que o usuário avance, mesmo que a captura do e-mail falhe
+      setIsSubmittingEmail(false)
+      setCurrentStep("verification")
     }
-
-  } catch (error) {
-    console.error("Error calling the subscribe API:", error)
-  } finally {
-    // O finally garante que o usuário avance, mesmo que a captura do e-mail falhe
-    setIsSubmittingEmail(false)
-    setCurrentStep("verification")
   }
-}
 
   return (
     <div className="min-h-screen" style={{ fontFamily: "Inter, -apple-system, BlinkMacSystemFont, sans-serif" }}>
@@ -1280,9 +1287,7 @@ export default function SigiloX() {
                     </div>
                     <span
                       className={`font-medium transition-colors duration-300 text-xs sm:text-sm whitespace-nowrap ${
-                        step.completed
-                          ? "text-green-600"
-                          : "text-gray-500"
+                        step.completed ? "text-green-600" : "text-gray-500"
                       }`}
                     >
                       <span className="block sm:hidden">{step.mobileLabel}</span>
@@ -1498,12 +1503,12 @@ export default function SigiloX() {
                       {/* Sarah's Testimonial */}
                       <div className="testimonial-card bg-white rounded-xl shadow-lg p-4 sm:p-5 flex items-start gap-4">
                         <img
-                          src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                          src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
                           alt="Sarah's photo"
                           className="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover flex-shrink-0 border-2 border-gray-200 shadow-sm"
                           onError={(e) => {
                             e.currentTarget.src =
-                              "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                              "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
                           }}
                         />
                         <div className="flex-1 min-w-0 text-left">
@@ -1570,12 +1575,12 @@ export default function SigiloX() {
                       {/* Michelle's Testimonial */}
                       <div className="testimonial-card bg-white rounded-xl shadow-lg p-4 sm:p-5 flex items-start gap-4">
                         <img
-                          src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80"
+                          src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80"
                           alt="Michelle's photo"
                           className="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover flex-shrink-0 border-2 border-gray-200 shadow-sm"
                           onError={(e) => {
                             e.currentTarget.src =
-                              "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
+                              "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
                           }}
                         />
                         <div className="flex-1 min-w-0 text-left">
@@ -1751,14 +1756,14 @@ export default function SigiloX() {
                                 </div>
                                 {filteredCountries.map((country) => (
                                   <button
-                                    key={country.code}
+                                    key={country.code + country.name} // Use a more unique key
                                     type="button"
                                     onClick={() => {
                                       setSelectedCountry(country)
                                       setShowCountryDropdown(false)
                                       setCountrySearch("")
                                       // Update phone number with new country code
-                                      const currentNumber = phoneNumber.replace(/^\+\d+\s*/, "")
+                                      const currentNumber = phoneNumber.replace(/^\+\d+\s*/, "") // Remove existing country code if present
                                       setPhoneNumber(country.code + " " + currentNumber)
                                     }}
                                     className="w-full px-3 py-2 text-left hover:bg-gray-100 flex items-center gap-3 text-sm"
@@ -1928,23 +1933,6 @@ export default function SigiloX() {
                         </div>
                       </div>
 
-                      {/* Email Field - Added here */}
-                      <div>
-                        <label className="block text-sm sm:text-base font-semibold text-[#333333] mb-2 sm:mb-3">
-                          Your Email Address
-                        </label>
-                        <Input
-                          type="email"
-                          placeholder="Enter your email address"
-                          value={userEmail}
-                          onChange={(e) => setUserEmail(e.target.value)}
-                          className="py-2 sm:py-3 px-3 sm:px-4 text-sm sm:text-base rounded-xl border-gray-300 focus:border-blue-500 focus:ring-blue-500"
-                        />
-                        <p className="text-xs sm:text-sm text-gray-500 mt-2 font-medium">
-                          We'll send your complete report to this email address. 100% confidential.
-                        </p>
-                      </div>
-
                       {/* Submit Button - Fixed Text Overflow */}
                       <Button
                         onClick={handleSubmitForm}
@@ -2041,7 +2029,7 @@ export default function SigiloX() {
             >
               <div className="w-full max-w-lg">
                 <Card className="bg-white rounded-2xl shadow-2xl border-0 overflow-hidden">
-                  <CardContent className="p-6 sm:p-8">
+                  <CardContent className="p-6 sm:p-8 text-center">
                     {/* Alert Header */}
                     <div className="text-center mb-6 sm:mb-8">
                       <div className="w-16 h-16 sm:w-20 sm:h-20 bg-gradient-to-r from-red-500 to-orange-500 rounded-2xl flex items-center justify-center mx-auto mb-4 sm:mb-6 shadow-lg animate-pulse">
@@ -2197,8 +2185,8 @@ export default function SigiloX() {
                           stepCompleted.conversations
                             ? "bg-green-50"
                             : stepCompleted.profilePhotos
-                            ? "bg-blue-50"
-                            : "bg-gray-50"
+                              ? "bg-blue-50"
+                              : "bg-gray-50"
                         }`}
                       >
                         {stepCompleted.conversations ? (
@@ -2223,8 +2211,8 @@ export default function SigiloX() {
                           stepCompleted.finalizing
                             ? "bg-green-50"
                             : stepCompleted.conversations
-                            ? "bg-blue-50"
-                            : "bg-gray-50"
+                              ? "bg-blue-50"
+                              : "bg-gray-50"
                         }`}
                       >
                         {stepCompleted.finalizing ? (
@@ -2496,7 +2484,7 @@ export default function SigiloX() {
                     <div className="bg-gray-50 rounded-xl p-4 sm:p-6">
                       <div className="flex items-start gap-3 sm:gap-4">
                         <img
-                          src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                          src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHx8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
                           alt="Sarah M."
                           className="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover border-2 border-gray-200"
                         />
