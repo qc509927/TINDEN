@@ -105,71 +105,71 @@ const malePhotos2534 = [
 ]
 
 const malePhotos3544 = [
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/male-35-44-male-morocholatino87.jpg-bam8DFyuAfzBux5zmL9lscgSfnbJ4w.jpeg", // male-35-44-male-morocholatino87.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/male-35-44-male-ovalo-sex.jpg-TdxtGZRqBJy2V8x9kVfSml7x6QJpjt.jpeg", // male-35-44-male-ovalo-sex.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/male-35-44-male-josepbgfeet.jpg-f25HHQX8Dso5oQBIE1uCIP3oC3KYrd.jpeg", // male-35-44-male-josepbgfeet.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/male-35-44-male-thesuitedboss.jpg-3CFJKVgZyyuzeIPk0klRBy6ixqjsHF.jpeg", // male-35-44-male-thesuitedboss.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/male-35-44-male-nicoink.jpg-0YCHbmDqw9dWCItx4Of9GbWBbpiZOZ.jpeg", // male-35-44-male-nicoink.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/male-35-44-male-nicoalpalo22.jpg-bPAd1S83ZoBGkoJyaKZ0BSEveTVHG1.jpeg", // male-35-44-male-nicoalpalo22.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/male-35-44-male-tunacho.jpg-2wHzLphZ2mKamlOeZmIfo1F09LM6pR.jpeg", // male-35-44-male-tunacho.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/male-35-44-male-thebigitaliansub.jpg-rcFp57YB2XDXYQ1ObWSzBY0QDTVkcI.jpeg", // male-35-44-male-thebigitaliansub.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/male-35-44-male-puntogof.jpg-9b6bkanYwTL6acvIqT3AC87dvvnXFZ.jpeg", // male-35-44-male-puntogof.jpg
+  "/images/male-35-44-male.jpeg", // male-35-44-male-morocholatino87.jpg
+  "/images/male-35-44-male-ovalo-sex.jpeg", // male-35-44-male-ovalo-sex.jpg
+  "/images/male-35-44-male.jpeg", // male-35-44-male-josepbgfeet.jpg
+  "/images/male-35-44-male.jpeg", // male-35-44-male-thesuitedboss.jpg
+  "/images/male-35-44-male-nicoink.jpeg", // male-35-44-male-nicoink.jpg
+  "/images/male-35-44-male.jpeg", // male-35-44-male-nicoalpalo22.jpg
+  "/images/male-35-44-male-tunacho.jpeg", // male-35-44-male-tunacho.jpg
+  "/images/male-35-44-male.jpeg", // male-35-44-male-thebigitaliansub.jpg
+  "/images/male-35-44-male.jpeg", // male-35-44-male-puntogof.jpg
 ]
 
 const malePhotos4554 = [
   // Placeholder para quando receber as imagens 45-54
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/3SJBR44DZ9c6pLRVDTA0Ww/public/male/45-54/male-45-54-hombrelatinoarg.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/2xC10Dbr0Yi98WJdnWWgm4/public/male/45-54/male-45-54-petemastersxxx.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/wKcNRFe1QqreA4CfjbJQ7a/public/male/45-54/male-45-54-scorcherb8.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/0TwfWC666HpVosmkj_QPc_/public/male/45-54/male-45-54-coachtennisdad.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-3sjbr44dz9c6plrvdta0ww-public-male-45-54-male-45-54.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-2xc10dbr0yi98wjdnwwgm4-public-male-45-54-male-45-54.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-wkcnrfe1qqrea4cfjbjq7a-public-male-45-54-male-45-54.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-0twfwc666hpvosmkj-qpc-public-male-45-54-male-45-54.jpg",
 ]
 
 const femalePhotos1824 = [
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-bustanutters.jpg-PfzSPm0cPx7xUL939wZRvkH6X4MnMI.jpeg", // female-18-24-female-ScarletBae.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-megnut.jpg-JDM9fK1I9XwHyJHqn36CZyjwv55ycS.jpeg", // female-18-24-female-born2bscene.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-siswet.jpg-5Ovue3nSIBKAMGL74rU3Ct4qf7bpFN.jpeg", // female-18-24-female-liliafourtwenty.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-ThorriandJax.jpg-CZTrwFISinAcSSvxRrAcUWtMDYTaiO.jpeg", // female-18-24-female-louprival.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-juicyjade9.jpg-nOS27Xu6KrOgaCRuu9862Hk73NegAs.jpeg", // female-18-24-female-babygirlmiza.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-ruth_lee.jpg-J5flhVFgEjhvJiSFhj0ZuBY3tGwjRI.jpeg", // female-18-24-female-imjuliequeen.jpg
+  "/images/female-25-34-female.jpeg", // female-18-24-female-ScarletBae.jpg
+  "/images/female-25-34-female-megnut.jpeg", // female-18-24-female-born2bscene.jpg
+  "/images/female-25-34-female-siswet.jpeg", // female-18-24-female-liliafourtwenty.jpg
+  "/images/female-25-34-female.jpeg", // female-18-24-female-louprival.jpg
+  "/images/female-25-34-female.jpeg", // female-18-24-female-babygirlmiza.jpg
+  "/images/female-25-34-female-ruth-lee.jpeg", // female-18-24-female-imjuliequeen.jpg
   "https://blobs.vusercontent.com/blob/female-25-34-female-graciebon1.jpg-kfctbLLp6OUl4Kc0OhSYyglGCLl29f.jpeg", // female-18-24-female-izzybunniesvip.jpg
 ]
 
 const femalePhotos2534 = [
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-bustanutters.jpg-PfzSPm0cPx7xUL939wZRvkH6X4MnMI.jpeg", // female-25-34-female-bustanutters.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-megnut.jpg-JDM9fK1I9XwHyJHqn36CZyjwv55ycS.jpeg", // female-25-34-female-megnut.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-siswet.jpg-5Ovue3nSIBKAMGL74rU3Ct4qf7bpFN.jpeg", // female-25-34-female-siswet.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-ThorriandJax.jpg-CZTrwFISinAcSSvxRrAcUWtMDYTaiO.jpeg", // female-25-34-female-ThorriandJax.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-juicyjade9.jpg-nOS27Xu6KrOgaCRuu9862Hk73NegAs.jpeg", // female-25-34-female-juicyjade9.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-ruth_lee.jpg-J5flhVFgEjhvJiSFhj0ZuBY3tGwjRI.jpeg", // female-25-34-female-ruth_lee.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-graciebon1.jpg-kfctbLLp6OUl4Kc0OhSYyglGCLl29f.jpeg", // female-25-34-female-graciebon1.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-brujita.roja.jpg-KZxlryBKf0XVbOHRNdGAMBpPQTa82Z.jpeg", // female-25-34-female-brujita.roja.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-25-34-female-toomanypeaches.jpg-6PDRsf3v2Nalrv9eRaku1bX8wh5kOe.jpeg", // female-25-34-female-toomanypeaches.jpg
+  "/images/female-25-34-female.jpeg", // female-25-34-female-bustanutters.jpg
+  "/images/female-25-34-female-megnut.jpeg", // female-25-34-female-megnut.jpg
+  "/images/female-25-34-female-siswet.jpeg", // female-25-34-female-siswet.jpg
+  "/images/female-25-34-female.jpeg", // female-25-34-female-ThorriandJax.jpg
+  "/images/female-25-34-female.jpeg", // female-25-34-female-juicyjade9.jpg
+  "/images/female-25-34-female-ruth-lee.jpeg", // female-25-34-female-ruth_lee.jpg
+  "/images/female-25-34-female.jpeg", // female-25-34-female-graciebon1.jpg
+  "/images/female-25-34-female-brujita.jpeg", // female-25-34-female-brujita.roja.jpg
+  "/images/female-25-34-female.jpeg", // female-25-34-female-toomanypeaches.jpg
 ]
 
 const femalePhotos3544 = [
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-35-44-female-belle_oharaxxx.jpg-Pq9aUAbtUDVI9UrrzZJlkfEC0cxuQv.jpeg", // female-35-44-female-belle_oharaxxx.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-35-44-female-txhotwife84_free.jpg-QV1C6Nj4fbSzTRIyGs7p4kiqtozXCx.jpeg", // female-35-44-female-txhotwife84_free.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-35-44-female-malmalloy.jpg-B7c4Pg36GwUFFIayybP0fiyWqkv51R.jpeg", // female-35-44-female-malmalloy.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-35-44-female-anialisimo.jpg-EcQ66PmaeU25fFT0xV8udt4mMqLwhC.jpeg", // female-35-44-female-anialisimo.jpg
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/female-35-44-female-syrenjaymes.jpg-N4w0IhzPmQNbX0BqZRFeTvdBdGNn3Y.jpeg", // female-35-44-female-syrenjaymes.jpg
+  "/images/female-35-44-female-belle-oharaxxx.jpeg", // female-35-44-female-belle_oharaxxx.jpg
+  "/images/female-35-44-female-txhotwife84-free.jpeg", // female-35-44-female-txhotwife84_free.jpg
+  "/images/female-35-44-female.jpeg", // female-35-44-female-malmalloy.jpg
+  "/images/female-35-44-female.jpeg", // female-35-44-female-anialisimo.jpg
+  "/images/female-35-44-female.jpeg", // female-35-44-female-syrenjaymes.jpg
 ]
 
 const femalePhotos4554 = [
   // Placeholder para quando receber as imagens 45-54
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/AEJxds2OT7Gt-B4VLJXv4a/public/female/45-54/female-45-54-annikarose69.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/1BUA6sJloJdt-jvL9MCX_i/public/female/45-54/female-45-54-AvrilShowers.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/ZP3nTnsBf-eH5TZPmJ2Y5l/public/female/45-54/female-45-54-casey_deluxe.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/_JzuRXZpf_Z2oSrQsFwVqy/public/female/45-54/female-45-54-eroticnikki.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/fvveni81HkNN0LrqIB4JXJ/public/female/45-54/female-45-54-goldieblair.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/N2QWnE3U5cy91m0VkVFzLX/public/female/45-54/female-45-54-jemmaluv.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/FJ77Pjm_R4YXKajt4cDFr4/public/female/45-54/female-45-54-lolamaverick.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/0z6995_0sJh478H4DUzkcd/public/female/45-54/female-45-54-MissHawthorn.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/1RCbILUlOe_6Oh3C6E1a9F/public/female/45-54/female-45-54-quiet_winner_76.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/uGH4sQMZaiDPeeyCrYTD2K/public/female/45-54/female-45-54-rileysweetnsexy.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/utg8RGec_BylfuoPKcczJ0/public/female/45-54/female-45-54-rose.curvy.xxx.png",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/W8GGhX3aDfLrw4OPchlLIa/public/female/45-54/female-45-54-solymx2.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/NpqvlUBeE3bPdFwQAhge5Z/public/female/45-54/female-45-54-stellahere.jpg",
-  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_dZrimM68aR5IMjhoid0WpfWib30j/fKgrGvdsa_GC0eLH-l5HTM/public/female/45-54/female-45-54-usapippa.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-aejxds2ot7gt-b4vljxv4a-public-female-45-54-female-45-54.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-1bua6sjlojdt-jvl9mcx-i-public-female-45-54-female-45-54.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-zp3ntnsbf-eh5tzpmj2y5l-public-female-45-54-female-45-54-casey-deluxe.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-jzurxzpf-z2osrqsfwvqy-public-female-45-54-female-45-54.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-fvveni81hknn0lrqib4jxj-public-female-45-54-female-45-54.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-n2qwne3u5cy91m0vkvfzlx-public-female-45-54-female-45-54.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-fj77pjm-r4yxkajt4cdfr4-public-female-45-54-female-45-54.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-0z6995-0sjh478h4duzkcd-public-female-45-54-female-45-54.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-1rcbiluloe-6oh3c6e1a9f-public-female-45-54-female-45-54-quiet-winner-76.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-ugh4sqmzaidpeeycrytd2k-public-female-45-54-female-45-54.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-utg8rgec-bylfuopkcczj0-public-female-45-54-female-45-54-rose.png",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-w8gghx3adflrw4opchllia-public-female-45-54-female-45-54-solymx2.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-npqvlubee3bpdfwqahge5z-public-female-45-54-female-45-54.jpg",
+  "/images/git-blob-prj-dzrimm68ar5imjhoid0wpfwib30j-fkgrgvdsa-gc0elh-l5htm-public-female-45-54-female-45-54.jpg",
 ]
 
 const maleNames = {
@@ -394,7 +394,7 @@ const femaleNames = {
   ],
 }
 
-export default function SigiloX() {
+export default function TinderCheckApp() {
   const [currentStep, setCurrentStep] = useState<AppStep>("landing")
   const [phoneNumber, setPhoneNumber] = useState("")
   const [selectedGender, setSelectedGender] = useState("")
@@ -1625,6 +1625,69 @@ export default function SigiloX() {
                       <Shield className="w-4 h-4" />
                       100% anonymous - Your investigation stays completely private
                     </p>
+                  </div>
+                </div>
+
+                <div className="bg-gray-50 border-t border-gray-200 py-8 sm:py-12">
+                  <div className="container mx-auto px-4 max-w-6xl">
+                    {/* Disclaimer Section */}
+                    <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 sm:p-6 mb-6 sm:mb-8 rounded-lg">
+                      <div className="flex items-start gap-3">
+                        <AlertTriangle className="w-5 h-5 text-yellow-600 flex-shrink-0 mt-0.5" />
+                        <div>
+                          <h4 className="font-bold text-gray-800 mb-2 text-sm sm:text-base">Important Disclaimer</h4>
+                          <p className="text-xs sm:text-sm text-gray-700 leading-relaxed">
+                            The results provided by our service are informational and subjective in nature. Individual
+                            results may vary significantly, and we make no guarantees regarding relationship outcomes,
+                            success rates, or specific findings. This service is intended for informational purposes
+                            only and should not be considered as professional relationship advice. The effectiveness of
+                            this service depends on multiple factors beyond our control, and past results do not
+                            guarantee future outcomes.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* Company Information */}
+                    <div className="text-center mb-6 sm:mb-8">
+                      <p className="text-sm text-gray-700 font-semibold mb-1">Mugiwara Ventures LTDA</p>
+                      <p className="text-xs sm:text-sm text-gray-600">CNPJ: 49.159.132/0001-50</p>
+                    </div>
+
+                    {/* Legal Links */}
+                    <div className="flex flex-wrap justify-center gap-4 sm:gap-6 mb-6 text-xs sm:text-sm">
+                      <a href="/privacy" className="text-gray-600 hover:text-gray-900 font-medium transition-colors">
+                        Privacy Policy
+                      </a>
+                      <span className="text-gray-400">|</span>
+                      <a href="/terms" className="text-gray-600 hover:text-gray-900 font-medium transition-colors">
+                        Terms of Use
+                      </a>
+                      <span className="text-gray-400">|</span>
+                      <a href="/refund" className="text-gray-600 hover:text-gray-900 font-medium transition-colors">
+                        Refund Policy
+                      </a>
+                    </div>
+
+                    {/* Additional Pages Links */}
+                    <div className="flex flex-wrap justify-center gap-4 sm:gap-6 mb-4 text-xs sm:text-sm">
+                      <a href="/wpv1.html" className="text-gray-500 hover:text-gray-700 transition-colors">
+                        WP V1
+                      </a>
+                      <span className="text-gray-400">|</span>
+                      <a href="/wpv2.html" className="text-gray-500 hover:text-gray-700 transition-colors">
+                        WP V2
+                      </a>
+                      <span className="text-gray-400">|</span>
+                      <a href="/wpv3.html" className="text-gray-500 hover:text-gray-700 transition-colors">
+                        WP V3
+                      </a>
+                    </div>
+
+                    {/* Copyright */}
+                    <div className="text-center text-xs text-gray-500 pt-4 border-t border-gray-200">
+                      <p>© 2025 Mugiwara Ventures LTDA. All rights reserved.</p>
+                    </div>
                   </div>
                 </div>
               </div>
